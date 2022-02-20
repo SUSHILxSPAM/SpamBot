@@ -40,6 +40,6 @@ S͛uͧs͛hͪiͥl xͯ S͛рⷬaͣMⷨ">
 * [Channel](https://t.me/ALLG_BAN) 
 * [Support Group](https://t.me/ALLF_BAN)
 
-# Credits
+# Credit
 * [Sushil Creator](https://github.com/SUSHILxSPAM)
 * [Cobra](https://github.com/SUSHILxMUSIC/) 
