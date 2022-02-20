@@ -27,7 +27,7 @@ S͛uͧs͛hͪiͥl xͯ S͛рⷬaͣMⷨ">
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUSHILDEVELOPER/spam-deploy-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sushil Developer/spam-deploy-)
 
 
 # Support & Updates
