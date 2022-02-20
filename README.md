@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg" alt="https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg">
+  <img src="./https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg" alt="https://github.com/SUSHILxSPAM">
 </p>
 <h1 align="center">
   <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
