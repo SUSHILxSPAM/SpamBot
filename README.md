@@ -5,7 +5,17 @@ S͛uͧs͛hͪiͥl xͯ S͛рⷬaͣMⷨ">
 <h1 align="center">
   <b>
 
-https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg</b>
+░██████╗██╗░░░██╗░██████╗██╗░░██╗██╗██╗░░░░░
+
+██╔════╝██║░░░██║██╔════╝██║░░██║██║██║░░░░░
+
+╚█████╗░██║░░░██║╚█████╗░███████║██║██║░░░░░
+
+░╚═══██╗██║░░░██║░╚═══██╗██╔══██║██║██║░░░░░
+
+██████╔╝╚██████╔╝██████╔╝██║░░██║██║███████╗
+
+╚═════╝░░╚═════╝░╚═════╝░╚═╝░░╚═╝╚═╝╚══════╝</b>
 </h1>
 
 [![Forks](https://img.shields.io/github/forks/SUSHILxSPAM/Spambot?style=flat-square&color=orange)](https://github.com/SUSHILxSPAM/Spambot/fork)
