@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg" alt="SUSHIL DEVELOPER">
+  <img src="./https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg" alt="https://telegra.ph/file/5df7d9e71740e5c056eb1.jpg">
 </p>
 <h1 align="center">
   <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
@@ -25,4 +25,4 @@
 
 # Credits
 * [Sushil Creator](https://github.com/SUSHILxSPAM)
-* [Cobra](https://github.com/SUSHILxMUSIC/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [Cobra](https://github.com/SUSHILxMUSIC/) 
